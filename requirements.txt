@@ -1,0 +1,50 @@
+kiwisolver==1.1.0
+librosa==0.6.3             ---> For audio analysis
+llvmlite==0.29.0
+Markdown==3.1.1
+matplotlib==2.2.4
+mock==3.0.5
+mpi4py==3.0.2
+nltk==3.2.5
+numba==0.45.1
+numpy==1.16.5              ---> For handling the data structures and mathematical operations in python
+pandas==0.23.0
+pathlib==1.0.1
+protobuf==3.9.1
+pycparser==2.19
+pyparsing==2.4.2
+python-dateutil==2.8.0
+python-speech-features==0.6
+pytz==2019.2
+resampy==0.2.2
+scikit-learn==0.20.4
+scipy==1.2.2               ---> Preprocessing and signal processing the .wav files 
+sentencepiece==0.1.83
+singledispatch==3.4.0.3
+six==1.12.0
+SoundFile==0.10.2          ---> Used to extract features from the audio files
+subprocess32==3.5.4
+tensorboard==1.13.1
+tensorflow-estimator==1.13.0
+tensorflow-gpu==1.13.1     ---> Python framework used for building Neural Network model
+termcolor==1.1.0
+tqdm==4.35.0               ---> Sound file characteristics handler
+Werkzeug==0.15.5
+absl-py==0.8.0
+astor==0.8.0
+audioread==2.1.8
+backports.functools-lru-cache==1.5
+backports.weakref==1.0.post1
+certifi==2019.6.16
+cffi==1.12.3
+cycler==0.10.0
+decorator==4.4.0
+enum34==1.1.6
+funcsigs==1.0.2
+futures==3.3.0
+gast==0.2.2
+grpcio==1.23.0
+h5py==2.9.0
+joblib==0.13.2
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
